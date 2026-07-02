@@ -1,11 +1,13 @@
 {
-  "latest_version": "1.0.2",
+  "latest_version": "1.0.3",
   "release_date": "2026-07-02",
   "download_url": "https://github.com/vincentnucciarone/ClancyBrowser/releases/latest/download/ClancyBrowser.zip",
   "release_url": "https://github.com/vincentnucciarone/ClancyBrowser/releases/latest",
   "changelog": [
-    "Added updater installation window.",
-    "Updater now waits for the browser to close before installing.",
-    "Browser restarts automatically after updating."
+    "Completely redesigned user interface with a cleaner, more modern look.",
+    "Added a custom Clancy Browser application icon.",
+    "Added application metadata for Clancy Software.",
+    "Improved overall visual polish across the browser.",
+    "Various bug fixes, stability improvements, and performance enhancements."
   ]
 }
