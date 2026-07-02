@@ -1,10 +1,11 @@
 {
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.2",
   "release_date": "2026-07-02",
   "download_url": "https://github.com/vincentnucciarone/ClancyBrowser/releases/latest/download/ClancyBrowser.zip",
   "release_url": "https://github.com/vincentnucciarone/ClancyBrowser/releases/latest",
   "changelog": [
-    "Added auto-download updater.",
-    "Browser now restarts after updating."
+    "Added updater installation window.",
+    "Updater now waits for the browser to close before installing.",
+    "Browser restarts automatically after updating."
   ]
 }
